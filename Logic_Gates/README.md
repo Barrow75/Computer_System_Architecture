@@ -51,7 +51,9 @@ A  B  |  x  <br>
 - Main point is to drive other gates that require a large amount of power
 - Used for memory blocks in computers
 - Also used to design RAM and registers used in processors
-
+Algebraic Function of NOT Gate:
+  > x = A' <br>
+  
 Truth Table: <br>
 A |  x  <br>
 ------------  <br>
@@ -62,8 +64,10 @@ A |  x  <br>
 - Used to amplify weak signals and  provide isolation between different parts of a circuit
 - Used for timing delays in signal transmission
 - RAM, CPU and peripherals communicating on a motherboard via shared data bus
-
-  Truth Table: <br>
+Algebraic Function of OR Gate:
+  > x = A  <br>
+  
+Truth Table: <br>
 A |  x  <br>
 ------------  <br>
 0 |  0  <br>
@@ -75,7 +79,9 @@ A |  x  <br>
 - The universal gate that  all basic gates can be represented by
 - Help detect if a single input to a digital system has gone low
 - All logic circuits inside a CPU can be built from NAND gates
-
+Algebraic Function of OR Gate:
+  > x = (AB)' <br>
+  
 Truth Table: <br>
 A  B  |  x  <br>
 ------------  <br>
@@ -83,3 +89,47 @@ A  B  |  x  <br>
 0  1  |  1  <br>
 1  0  |  1  <br>
 1  1  |  0  <br>
+
+# NOR Gate
+- The inverse of the OR gate
+- Crucial role in flash memeory technology commonly found in USB and SSD
+- Generating synchronized clock signals in digital systems
+Algebraic Function of OR Gate:
+  > x = (A+B)'  <br>
+
+Truth Table: <br>
+A  B  |  x  <br>
+------------  <br>
+0  0  |  1  <br>
+0  1  |  0  <br>
+1  0  |  0  <br>
+1  1  |  0  <br>
+
+# XOR Gate
+- Output is 1 if any input is 1 but 0 if both inputs are 1
+- Used in data encryption, and digital additional circuits
+Algebraic Function of OR Gate:
+  > x = A'B + AB'  <br>
+
+Truth Table: <br>
+A  B  |  x  <br>
+------------  <br>
+0  0  |  0  <br>
+0  1  |  1  <br>
+1  0  |  1  <br>
+1  1  |  0  <br>
+
+# XNOR Gate
+- Hybrid combining XOR and NOT
+- Can have two or more inputs
+- Employed in the electronic circuits that conduct data checking and arithmentic operations
+Algebraic Function of OR Gate:
+  > x = A'B' + AB  <br>
+
+Truth Table: <br>
+A  B  |  x  <br>
+------------  <br>
+0  0  |  1  <br>
+0  1  |  0  <br>
+1  0  |  0  <br>
+1  1  |  1  <br>
