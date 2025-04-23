@@ -8,7 +8,7 @@ Algebraic Function of AND Gate:
   > AB
   > A•B
 
-Truth Table:
+Truth Table: <br>
 A  B  |  x  <br>
 ------------  <br>
 0  0  |  0  <br>
