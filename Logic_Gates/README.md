@@ -7,7 +7,14 @@ Gates are blocks of hardware that produce signals of binary 1 or 0 when input lo
 Algebraic Function of AND Gate:
   > AB <br>
   > A•B <br>
+- In the CPU te AND gates are a major component to satisfy multiple occurances as true. They are used for arithmatic operations in logic units.
+- In cybersecurity 
+    - Firewalls
+    - VPN Access
+    - Secure System Logins
+    - Secure Boot - The system checks if the bootloader is signed AND the firmware hash matches beofre proceeding
 
+      
 Truth Table: <br>
 A  B  |  x  <br>
 ------------  <br>
