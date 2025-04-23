@@ -60,4 +60,26 @@ A |  x  <br>
 
 # Buffer 
 - Used to amplify weak signals and  provide isolation between different parts of a circuit
-- Used for timing delaysin signal transmission
+- Used for timing delays in signal transmission
+- RAM, CPU and peripherals communicating on a motherboard via shared data bus
+
+  Truth Table: <br>
+A |  x  <br>
+------------  <br>
+0 |  0  <br>
+1 |  1  <br>
+
+# NAND Gate
+- The complement/inverse of the AND function
+- NOT AND
+- The universal gate that  all basic gates can be represented by
+- Help detect if a single input to a digital system has gone low
+- All logic circuits inside a CPU can be built from NAND gates
+
+Truth Table: <br>
+A  B  |  x  <br>
+------------  <br>
+0  0  |  1  <br>
+0  1  |  1  <br>
+1  0  |  1  <br>
+1  1  |  0  <br>
