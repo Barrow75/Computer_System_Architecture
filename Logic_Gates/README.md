@@ -9,9 +9,9 @@ Algebraic Function of AND Gate:
   > A•B
 
 Truth Table:
-A  B  |  x
-------------
-0  0  |  0
-0  1  |  0
-1  0  |  0
-1  1  |  1
+A  B  |  x  <br>
+------------  <br>
+0  0  |  0  <br>
+0  1  |  0  <br>
+1  0  |  0  <br>
+1  1  |  1  <br>
