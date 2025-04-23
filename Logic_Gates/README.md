@@ -57,3 +57,7 @@ A |  x  <br>
 ------------  <br>
 0 |  1  <br>
 1 |  0  <br>
+
+# Buffer 
+- Used to amplify weak signals and  provide isolation between different parts of a circuit
+- Used for timing delaysin signal transmission
