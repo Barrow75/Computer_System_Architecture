@@ -9,9 +9,13 @@ x + x' = 1 <br>
 
 Example:
 AB' + C'D + AB' + C'D 
-1. Combine like terms:
+1. Combine like terms:<br>
       (AB' + C'D) + (AB' + C'D)
    
-3. Let x = (AB' + C'D) <br>
+2. Let x = (AB' + C'D) <br>
      (AB' + C'D) + (AB' + C'D) <br>
            x     +      x
+
+3. Identity 5: <br>
+         x + x = x <br>
+         AB' + C'D
