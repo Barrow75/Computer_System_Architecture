@@ -8,10 +8,10 @@ x + x = x <br>
 x + x' = 1 <br>
 
 Example:
-AB' + C'D + AB' + C'D
+AB' + C'D + AB' + C'D 
 1. Combine like terms:
       (AB' + C'D) + (AB' + C'D)
    
-3. Let x = (AB' + C'D)
-     (AB' + C'D) + (AB' + C'D)
+3. Let x = (AB' + C'D) <br>
+     (AB' + C'D) + (AB' + C'D) <br>
            x     +      x
