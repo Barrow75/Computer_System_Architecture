@@ -7,6 +7,6 @@
       - S (sum) and C (carry) to the output variables
       - C output is 0 unless both inputs are 1
    
-  - Equations:
+  - Equations: <br>
       S = x'y + xy' = x ⊕ y (XOR) <br>
       C = xy 
