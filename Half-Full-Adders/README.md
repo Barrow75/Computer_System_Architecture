@@ -10,3 +10,10 @@
   - Equations: <br>
       S = x'y + xy' = x ⊕ y (XOR) <br>
       C = xy 
+
+# Full Adder:
+  - Combinational circuit that forms the arithmetic sum of three input bits
+  - Three inputs and two outputs
+  - Two inputs dentoed by x and y
+  - Third input represents the carry from the previous lower significant position
+  - S output is equal to 1   
