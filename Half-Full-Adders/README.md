@@ -8,5 +8,5 @@
       - C output is 0 unless both inputs are 1
    
   - Equations:
-      S = x'y + xy' = x ⊕ y (XOR)
+      S = x'y + xy' = x ⊕ y (XOR) <br>
       C = xy 
