@@ -16,4 +16,9 @@
   - Three inputs and two outputs
   - Two inputs dentoed by x and y
   - Third input represents the carry from the previous lower significant position
-  - S output is equal to 1   
+  - S output is equal to 1 when only one input is equal to 1 or when all three inputs are equal to 1
+  - C output carries 1 if two or three inputs are equal to 1
+
+    - Equations: <br>
+        S = x ⊕ y ⊕ z <br>
+        C = xy + (x ⊕ y)z
