@@ -77,6 +77,8 @@ testing =[
     (1, 1, 1)
 ]
 
+print("S R CLK | Q")
+print("-------------")
 for S, R, clk in testing:
     output = sr_Flip_Flop(S, R, clk)
-    print(f"{S} {R} {clk} | {output}")
+    print(f"{S} {R}  {clk}  | {output}")
