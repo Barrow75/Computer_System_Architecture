@@ -15,3 +15,15 @@
 changes in multi bit circuits
 - Simplest possible memory circuit in digital electronics.
 - Fundamental idea of storing state ( remembering a bit over time)
+
+# D Flip Flop
+- Stores 1 bit either a 0 or 1
+- Whatever value is on D at the moment of a clock tick is saved and held as the output Q
+- Used in Registers, RAM cells, Buffers
+- Helps in synchronized digital systems, avoiding glitches
+- Allows circuits to remember past events or keep track of states
+- Two inputs: <br>
+      > D input: What to store
+      > Clock Input: When to store it
+- One Output:
+      > Q output: Stored value that doesnt change until next clock
