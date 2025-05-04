@@ -23,7 +23,7 @@ changes in multi bit circuits
 - Helps in synchronized digital systems, avoiding glitches
 - Allows circuits to remember past events or keep track of states
 - Two inputs: <br>
-      > D input: What to store
-      > Clock Input: When to store it
-- One Output:
+      > D input: What to store <br>
+      > Clock Input: When to store it 
+- One Output: <br>
       > Q output: Stored value that doesnt change until next clock
