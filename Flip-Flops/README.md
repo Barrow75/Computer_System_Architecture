@@ -1,5 +1,4 @@
 # SR Flip Flop
-
 - Set Reset flip flop is the simplest type of memory element
 - Stores 1 bit either a 0 or 1
 - Two Inputs: <br>
@@ -27,3 +26,24 @@ changes in multi bit circuits
       > Clock Input: When to store it 
 - One Output: <br>
       > Q output: Stored value that doesnt change until next clock
+
+
+# JK Flip Flop
+- A type of flip flop that stores 1 bit and eiminates the invalid state found in the SR flip flop
+- Three Inputs: <br>
+      > J = Set input (S in the SR Flip Flip) <br>
+      > K = Reset input (R in the SR flip flop) <br>
+      > clk = clock input
+
+- One output: <br>
+      > Q = output (stored bit)
+
+- Solves the SR flip flop problem; since in an SR flip flop if R = 1 and R = 1 is invalid the JK flip flop
+replaces the invalid state
+- Used in binary counters, digital clocks, timers
+- Why use an SR over a JK: <br>
+      - SR is simpler, faster and cheaper <br>
+      - Good enough for simple circuits <br>
+      - SR flip flops are like basic on and off switches <br>
+      - JK flip flops are like smart switches
+  
