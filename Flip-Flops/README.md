@@ -55,4 +55,6 @@ replaces the invalid state
       - Good enough for simple circuits <br>
       - SR flip flops are like basic on and off switches <br>
       - JK flip flops are like smart switches but smart switches cost more and may not be needed for every lamp
-  
+
+# T Flip Flop
+- 
