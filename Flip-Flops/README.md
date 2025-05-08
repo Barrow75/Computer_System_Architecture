@@ -1,3 +1,12 @@
+# What are Flip Flops:
+  A binary cell capable of storing one bit of information. 
+  It has two outputs: <br>
+       One for the normal value and one for the complement value of thhe bit stored in it <br>
+
+  A flip flop maintains a binary state until directed by a clock pulse to switch states
+
+  The difference among differet types of flip flops is the number of inputs they possess an in the manner in which the inputs affect the binary state
+
 # SR Flip Flop
 - Set Reset flip flop is the simplest type of memory element
 - Stores 1 bit either a 0 or 1
