@@ -57,4 +57,7 @@ replaces the invalid state
       - JK flip flops are like smart switches but smart switches cost more and may not be needed for every lamp
 
 # T Flip Flop
-- 
+- Stores one bit of data and toggles its state on every clock edge if the input T = 1
+- T = 0 -> Do nothing, keep current state
+- T = 1 -> Flip the output -> 0 beomes 1 and 1 becomes 0 on vewry rising clock edge
+- A T flip-flop toggles its output on every rising clock edge when T = 1, and holds its value when T = 0
