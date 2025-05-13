@@ -25,3 +25,10 @@ A detailed comprehensive build of computer architecture using many different cod
       - State Diagram
       - Design Example
       - Design Procedure
+
+
+Logic Gates are the physical building blocks: <br>
+      - Made from transistors using CMOS technology <br>
+      - Uses gates such as AND, OR, NOT, NAND, NOR, XOR and are wired in the transistor level <br>
+
+                                    ▼
