@@ -31,4 +31,8 @@ Logic Gates are the physical building blocks: <br>
       - Made from transistors using CMOS technology <br>
       - Uses gates such as AND, OR, NOT, NAND, NOR, XOR and are wired in the transistor level <br>
 
-                                    ▼
+
+Boolean Algebra is the language of the gates: <br>
+      - This is how we design, simplify, and describe what the gates should do <br>
+      - Turn a system requirements into a circuit
+                  
